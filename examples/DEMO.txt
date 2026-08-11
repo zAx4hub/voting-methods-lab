@@ -1,0 +1,7 @@
+Voting Methods Lab — 60s demo
+
+Pain: Voting methods lab covering IRV and Condorcet
+
+npm install && npm test && npm run demo
+
+Credits: zAx4hub
